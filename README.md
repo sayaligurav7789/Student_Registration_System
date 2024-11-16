@@ -30,7 +30,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/Student-Management-System.git
+git clone https://github.com/your-username/Student-Registration-System.git
 cd Student-Management-System
 Open the project in NetBeans:
 
