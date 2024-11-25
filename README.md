@@ -21,7 +21,7 @@ The Student Management System is a Java-based application designed to manage stu
 
 1. *bash :*
 Copy code -
-git clone https://github.com/your-username/Student-Management-System.git
+git clone https://github.com/sayaligurav7789/Student_Registration_System.git
 cd Student-Management-System
 - Open the project in NetBeans:
 
